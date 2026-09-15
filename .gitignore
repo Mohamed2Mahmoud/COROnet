@@ -1,0 +1,39 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & model artifacts (kept out of version control; see README for storage layout)
+*.nii
+*.nii.gz
+*.npy
+*.pt
+*.pth
+data/
+COROnet_Drive/
+Classification_Input/
+MIL_Features/
+Experiment_Results/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
