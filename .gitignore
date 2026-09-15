@@ -22,7 +22,7 @@ env/
 *.npy
 *.pt
 *.pth
-data/
+
 COROnet_Drive/
 Classification_Input/
 MIL_Features/
